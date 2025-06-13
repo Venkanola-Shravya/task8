@@ -1,0 +1,6 @@
+Sales Dashboard Insights
+
+1. The West region recorded the highest total sales across all time periods.
+2. The Technology category contributed the most to total sales, followed by Office Supplies.
+3. Sales peaked around November 2017, indicating strong end-of-year performance.
+4. The South region consistently underperformed in sales compared to other regions.
